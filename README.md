@@ -36,3 +36,9 @@ This is a complex topic, but it boils down to how we view programming languages 
 ### C in recent years
 
 This is targeted at C compiler writers, which these days means GCC and LLVM people. Compiler writers serving the standards people instead of serving their actual users. Standards people don't understand their users because most of them don't have any experience producing actual shippable software. The spherical cow in a vacuum that is the C abstract machine combined with the ever-growing plague of undefined behavior has made this language close to unusable in recent years. It wouldn't matter if C would die, but this beast is hard to kill, the core language being too good for its own sake even though everything around it (the preprocessor, the tools, the endless build systems) sucks.
+
+#### Update Dec 3, 2019
+
+### Text-based protocols
+
+If you ever get to read the RFCs on the HTTP protocol, that marvelous piece of engineering that even got its inventor the blessings of Her Majesty The Queen herself, you'll quickly realize what a miracle it is that our computers even start when we plug them in. I for one am amazed how Google can track my online behavior so well based on those cookie RFCs because if my calculations are correct, those things should just not work. So there you go. Something to be grateful for. You're welcome.
