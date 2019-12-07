@@ -42,3 +42,17 @@ This is targeted at C compiler writers, which these days means GCC and LLVM peop
 ### Text-based protocols
 
 If you ever get to read the RFCs on the HTTP protocol, that marvelous piece of engineering that even got its inventor the blessings of Her Majesty The Queen herself, you'll quickly realize what a miracle it is that our computers even start when we plug them in. I for one am amazed how Google can track my online behavior so well based on those cookie RFCs because if my calculations are correct, those things should just not work. So there you go. Something to be grateful for. You're welcome.
+
+#### Update Dec 7, 2019
+
+### Design patterns and object-oriented programming
+
+Let's see what some reputable people in the field have to say about it:
+
+"Design patterns are spoonfeed material for brainless programmers incapable of independent thought, who will be resolved to producing code as mediocre as the design patterns they use to create it." - Christer Ericson, tech lead at Sony.
+
+"Object-oriented programming is an exceptionally bad idea which could only have originated in California." - Edsger Dijkstra.
+
+"The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." - Joe Armstrong, Erlang creator.
+
+This reminds me to hate a little on Martin Fowler some day... that scarf-wearing hipster, the Tony Robinson of web programmers that lures people with 50 dollar terms like "dependency injection" and "mob programming" but I can't seem to find any evidence that he's ever written a single line of code in his life.
