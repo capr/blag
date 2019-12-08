@@ -17,8 +17,6 @@ Until then, stay tuned, because I have a lot of things to get off my chest.
 
 ### Dec 2, 2019
 
-Here's a shortlist of topics that I'd like to talk about:
-
 ## The way we distribute and run software is fundamentally broken
 
 This is a big one and needs a lot of explaining. The software culture and industry is shaped and regulated by the ways in which software gets on people's computers. The biggest fights in the industry are about who controls the platforms that software runs on. It's why Apple made the iPhone and why Google made Android and Chrome. It's the reason why Microsoft dominates the desktop market and the reason why Linux doesn't (but could, if they would understand this).
