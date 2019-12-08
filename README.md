@@ -27,11 +27,11 @@ TODO: Talk about operating systems, browsers, apps and app stores, docker, Linux
 
 ### The Internet culture is shaped by a limitation of the IP protocol
 
-The way the Interent works, it is hard to connect two random computers on it together. This asymmetry led to the client-server idea that is basically our culture on how the Internet works today. This gave rise to the web, a revival of terminal/mainframe model of the 70s (now called "cloud computing" and "web apps"), exacerbating the separation between technology producer and technology consumer. But if it weren’t for this basic limitation in the IP protocol, the Internet and the way we use it to communicate and the kinds of apps that we would envision for it might look very different today.
+The way the Internet works, it is hard to connect two random computers on it together. This asymmetry led to the client-server idea that is basically our culture on how the Internet works today. This gave rise to the web, a revival of terminal/mainframe model of the 70s (now called "cloud computing" and "web apps"), exacerbating the separation between technology producer and technology consumer. But if it weren’t for this basic limitation in the IP protocol, the Internet and the way we use it to communicate and the kinds of apps that we would envision for it might look very different today.
 
 ### Most programming is at the wrong level of abstraction
 
-This is a complex topic, but it boils down to how we view programming languages in this culture. Even though there's a proliferation of new languages in the last years, every one of them tries hard to create its own bubble, to distinguish itself and specialize without also focusing on interoperability and embeddability so that it can be easily used from other languages and contexts. Moreso, we simply aren't yet able to envison a tool that can work well at multiple levels of abstraction, which leaves us endlessly reinventing the same wheels with every new tool, eg. every language reimplements the same cross-platform GUI library.
+This is a complex topic, but it boils down to how we view programming languages in this culture. Even though there's a proliferation of new languages in the last years, every one of them tries hard to create its own bubble, to distinguish itself and specialize without also focusing on interoperability and embeddability so that it can be easily used from other languages and contexts. More so, we simply aren't yet able to envision a tool that can work well at multiple levels of abstraction, which leaves us endlessly reinventing the same wheels with every new tool, eg. every language reimplements the same cross-platform GUI library.
 
 ### C in recent years
 
@@ -67,7 +67,7 @@ This reminds me to hate a little on Martin Fowler some day... that scarf-wearing
 
 The rule of 10 states that for every factor of 10 in scale, a new set of problems dominates.
 
-The idea here is that software design is not scale invariant. Significant scale differences change things in fundamental ways (eg. human-scale insects wouldn't work and viceversa). As a counterpoint to that, the ideas about abstraction and process _are_ scale invariant, so eg. the concept of a loop (so, repetition) is so fundamental to the idea of automation that it appears  in one form or another at every level of abstraction.
+The idea here is that software design is not scale invariant. Significant scale differences change things in fundamental ways (eg. human-scale insects wouldn't work and vice versa). As a counterpoint to that, the ideas about abstraction and process _are_ scale invariant, so eg. the concept of a loop (so, repetition) is so fundamental to the idea of automation that it appears  in one form or another at every level of abstraction.
 
 ### The confession of an idiot programmer [1](https://wiki.c2.com/?IdiotProgrammer)
 
@@ -83,7 +83,7 @@ I can relate a lot to that. I never considered myself a particularly fast coder 
 
 At my last teaching gig I used to tell students that if you can formulate your problem precisely, the code basically writes itself. People's first reaction when they hear this is something like "if only that were true, programming would be so simple". But then they are surprised to find out how difficult it is to actually formulate an idea with any amount of precision. How many assumptions are implied and must be made explicit, how many are wrong and must be discarded. 
 
-This process can be anxiety-inducing for someone who's not used to it because it makes you acutely aware of the gap between your mental moddel of the world and the reality of it. But this is precisely what enables you to progress and narrow that gap. Thinking is transitioning between multiple states of failure with the hope that it will all end in a state of success. 
+This process can be anxiety-inducing for someone who's not used to it because it makes you acutely aware of the gap between your mental model of the world and the reality of it. But this is precisely what enables you to progress and narrow that gap. Thinking is transitioning between multiple states of failure with the hope that it will all end in a state of success. 
 
 Richard Feynman said that if you can't explain it to your grandmother, you don't understand it well enough. If your grandmother can understand it, this demonstrates that the little branch from your internal knowledge tree in your head that you were trying to transfer to her mind is self-contained enough that she can integrate it in her own knowledge tree making all the necessary connections. If this fails, your idea contains assumptions (i.e. context) that you're not aware of and that you must discover.
 
