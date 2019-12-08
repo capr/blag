@@ -55,7 +55,7 @@ Let's see what some reputable people in the field have to say about it:
 
 "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." - Joe Armstrong, Erlang creator.
 
-This reminds me to hate a little on Martin Fowler some day... that scarf-wearing hipster, the Tony Robinson of web programmers that lures people with 50 dollar terms like "dependency injection" and "mob programming" but I can't seem to find any evidence that he's ever written a single line of code in his life.
+This reminds me to hate a little on Martin Fowler some day... that scarf-wearing hipster, the Tony Robbins of web programmers that lures people with 50 dollar terms like "dependency injection" and "mob programming" but I can't seem to find any evidence that he's ever written a single line of code in his life.
 
 ## Inspirational talks and lectures
 
