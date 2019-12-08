@@ -56,3 +56,35 @@ Let's see what some reputable people in the field have to say about it:
 "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." - Joe Armstrong, Erlang creator.
 
 This reminds me to hate a little on Martin Fowler some day... that scarf-wearing hipster, the Tony Robinson of web programmers that lures people with 50 dollar terms like "dependency injection" and "mob programming" but I can't seem to find any evidence that he's ever written a single line of code in his life.
+
+### Inspirational talks and lectures
+
+[Bret Victor - Bret Victor - Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
+
+[The Mother of All Demos, presented by Douglas Engelbart (1968)](https://www.youtube.com/watch?v=yJDv-zdhzMY)
+
+### The rule of 10
+
+The rule of 10 states that for every factor of 10 in scale, a new set of problems dominates.
+
+The idea here is that software design is not scale invariant. Significant scale differences change things in fundamental ways (eg. human-scale insects wouldn't work and viceversa). As a counterpoint to that, the ideas about abstraction and process _are_ scale invariant, so eg. the concept of a loop (so, repetition) is so fundamental to the idea of automation that it appears  in one form or another at every level of abstraction.
+
+### The confession of an idiot programmer [1](https://wiki.c2.com/?IdiotProgrammer)
+
+> I am an idiot. That has profoundly affected the way I code. Everything must be simple enough for a child to understand, and even then, I struggle.
+>
+> Being an idiot has forced me to refactor mercilessly. If I don't, there's no chance of my understanding my code. And if I don't understand my code, there's no chance of my getting it to work.
+>
+> I've seen people who can solve complex problems, and I admire them. Alas, I'm not one of them. So whenever I have to solve a complex problem, I make it simple first.
+>
+> If I can't make a problem simple, it's usually because someone else insists that it remain complex. In that case, I have to wait for someone smart to fix it (thank you, smart person), or for someone to change their mind and allow me to make the problem simple.
+
+I can relate a lot to that. I never considered myself a particularly fast coder or snappy thinker. I know people who are a lot faster than me. My "secret" is that I simply stay with problems longer. When you stay with a problem longer, its complexity peels away layer by layer until the problem becomes so simple that you can even tell it to your stupid computer that takes everything literally.
+
+At my last teaching gig I used to tell students that if you can formulate your problem precisely, the code basically writes itself. People's first reaction when they hear this is something like "if only that were true, programming would be so simple". But then they are surprised to find out how difficult it is to actually formulate an idea with any amount of precision. How many assumptions are implied and must be made explicit, how many are wrong and must be discarded. 
+
+This process can be anxiety-inducing for someone who's not used to it because it makes you acutely aware of the gap between your mental moddel of the world and the reality of it. But this is precisely what enables you to progress and narrow that gap. Thinking is transitioning between multiple states of failure with the hope that it will all end in a state of success. 
+
+Richard Feynman said that if you can't explain it to your grandmother, you don't understand it well enough. If your grandmother can understand it, this demonstrates that the little branch from your internal knowledge tree in your head that you were trying to transfer to her mind is self-contained enough that she can integrate it in her own knowledge tree making all the necessary connections. If this fails, your idea contains assumptions (i.e. context) that you're not aware of and that you must discover.
+
+Discovering that you're an idiot programmer is humbling and liberating. You don't have to prove anything to anyone which makes you more relaxed, and getting more aware of your limitations is always a good thing because it allows you to optimize for them instead of fighting to overcome them.
