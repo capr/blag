@@ -19,7 +19,7 @@ Until then, stay tuned, because I have a lot of things to get off my chest.
 
 ## Why Lua has no library ecosystem
 
-Alright, it's time to bash on my favorite language a little bit. Specifically the problem of libraries because Lua doesn't have many good ones and because it's a common ritual to address the issue every year on the Lua mailing list and then do absolutely nothing about it, a tradition that goes back many years on that list. Can we do something about it? [Read more](https://github.com/capr/blog/issues/1)
+Alright, it's time to bash on my favorite language a little bit. Specifically the problem of libraries because Lua doesn't have many good ones and because it's a common ritual for someone to raise the issue on the Lua mailing list once a year and then nothing is done about it, a tradition that goes back many years on that list. Can we do something about that? [Read more](https://github.com/capr/blog/issues/1)
 
 ### Dec 7, 2019
 
