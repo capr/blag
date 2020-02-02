@@ -19,21 +19,13 @@ Until then, stay tuned, because I have a lot of things to get off my chest.
 
 ## Why Lua has no library ecosystem
 
-Alright, it's time to bash on my favorite language a little bit. Specifically the problem of libraries because Lua doesn't have many good ones and because it's a common ritual to address the issue every year on the Lua mailing list and then do absolutely nothing about it, a tradition that goes back many years on that list. [Read more](https://github.com/capr/blog/issues/1)
+Alright, it's time to bash on my favorite language a little bit. Specifically the problem of libraries because Lua doesn't have many good ones and because it's a common ritual to address the issue every year on the Lua mailing list and then do absolutely nothing about it, a tradition that goes back many years on that list. Can we do something about it? [Read more](https://github.com/capr/blog/issues/1)
 
 ### Dec 7, 2019
 
 ## Design patterns from hell and object-oriented programming
 
-Let's see what some reputable people in the field have to say about it:
-
-"Design patterns are spoonfeed material for brainless programmers incapable of independent thought, who will be resolved to producing code as mediocre as the design patterns they use to create it." - Christer Ericson, tech lead at Sony.
-
-"Object-oriented programming is an exceptionally bad idea which could only have originated in California." - Edsger Dijkstra.
-
-"The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." - Joe Armstrong, Erlang creator.
-
-This reminds me to hate a little on Martin Fowler some day... that scarf-wearing hipster, the Tony Robbins of web programmers that lures people with 50 dollar terms like "dependency injection" and "mob programming" but I can't seem to find any evidence that he's ever written a single line of code in his life.
+Let's see what some reputable people in the field have to say about it. [Read more](https://github.com/capr/blog/issues/3)
 
 ## Inspirational talks and lectures
 
@@ -49,24 +41,8 @@ The idea here is that software design is not scale invariant. Significant scale 
 
 ## Confession of an idiot programmer [1](https://wiki.c2.com/?IdiotProgrammer)
 
-> I am an idiot. That has profoundly affected the way I code. Everything must be simple enough for a child to understand, and even then, I struggle.
->
-> Being an idiot has forced me to refactor mercilessly. If I don't, there's no chance of my understanding my code. And if I don't understand my code, there's no chance of my getting it to work.
->
-> I've seen people who can solve complex problems, and I admire them. Alas, I'm not one of them. So whenever I have to solve a complex problem, I make it simple first.
->
-> If I can't make a problem simple, it's usually because someone else insists that it remain complex. In that case, I have to wait for someone smart to fix it (thank you, smart person), or for someone to change their mind and allow me to make the problem simple.
-
-I can relate a lot to that. I never considered myself a particularly fast coder or snappy thinker. I know people who are a lot faster than me. My "secret" is that I simply stay with problems longer. When you stay with a problem longer, its complexity peels away layer by layer until the problem becomes so simple that you can even tell it to your stupid computer that takes everything literally.
-
-At my last teaching gig I used to tell students that if you can formulate your problem precisely, the code basically writes itself. People's first reaction when they hear this is something like "if only that were true, programming would be so simple". But then they are surprised to find out how difficult it is to actually formulate an idea with any amount of precision. How many assumptions are implied and must be made explicit, how many are wrong and must be discarded. 
-
-This process can be anxiety-inducing for someone who's not used to it because it makes you acutely aware of the gap between your mental model of the world and the reality of it. But this is precisely what enables you to progress and narrow that gap. Thinking is transitioning between multiple states of failure with the hope that it will all end in a state of success. 
-
-Richard Feynman said that if you can't explain it to your grandmother, you don't understand it well enough. If your grandmother can understand it, this demonstrates that the little branch from your internal knowledge tree in your head that you were trying to transfer to her mind is self-contained enough that she can integrate it in her own knowledge tree making all the necessary connections. If this fails, your idea contains assumptions (i.e. context) that you're not aware of and that you must discover.
-
-Discovering that you're an idiot programmer is humbling and liberating. You don't have to prove anything to anyone which makes you more relaxed, and getting more aware of your limitations is always a good thing because it allows you to optimize for them instead of fighting to overcome them.
-
+> I am an idiot. That has profoundly affected the way I code. [Read more](https://github.com/capr/blog/issues/4).
+ 
 ### Dec 3, 2019
 
 ## Text-based protocols
@@ -77,13 +53,11 @@ If you ever get to read the RFCs on the HTTP protocol, that marvelous piece of e
 
 ## The way we distribute and run software is fundamentally broken
 
-This is a big one and needs a lot of explaining. The software culture and industry is shaped and regulated by the ways in which software gets on people's computers. The biggest fights in the industry are about who controls the platforms that software runs on. It's why Apple made the iPhone and why Google made Android and Chrome. It's the reason why Microsoft dominates the desktop market and the reason why Linux doesn't (but could, if they would understand this).
-
-TODO: Talk about operating systems, browsers, apps and app stores, docker, Linux distributions, etc., their implications, and how different models of software distribution could change the loci of control and shift the power towards users and smaller players.
+The software culture and industry is shaped and regulated by the ways in which software gets on people's computers. And we're doing it all wrong. [Read more](https://github.com/capr/blog/issues/5)
 
 ## The Internet culture is shaped by a limitation of the IP protocol
 
-The way the Internet works, it is hard to connect two random computers on it together. This asymmetry led to the client-server idea that is basically our culture on how the Internet works today. This gave rise to the web, a revival of the terminal/mainframe model of the 70s (now called "cloud computing" and "web apps"), exacerbating the separation between technology producer and technology consumer. But if it weren’t for this basic limitation in the IP protocol, the Internet and the way we use it to communicate and the kinds of apps that we would envision for it might look very different today.
+People tend to underestimate the extent to which hidden technological limitations contribute to the shape of the culture that forms around a certain technology. "The medium is the message" is deeper than expected. [Read more](https://github.com/capr/blog/issues/6)
 
 ## Most programming is at the wrong level of abstraction
 
@@ -91,4 +65,4 @@ This is a complex topic, but it boils down to how we view programming languages 
 
 ## C in recent years
 
-This is targeted at C compiler writers, which these days means GCC and LLVM people. Compiler writers serving the standards people instead of serving their actual users. Standards people don't understand their users because most of them don't have any experience producing actual shippable software. The spherical cow in a vacuum that is the C abstract machine combined with the ever-growing plague of undefined behavior has made this language close to unusable in recent years. It wouldn't matter if C would die, but this beast is hard to kill, the core language being too good for its own sake even though everything around it (the preprocessor, the tools, the endless build systems) sucks.
+C was once great but it's getting worse. Can we do something about it? [Read more](https://github.com/capr/blog/issues/2)
