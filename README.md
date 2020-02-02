@@ -87,6 +87,8 @@ Richard Feynman said that if you can't explain it to your grandmother, you don't
 
 Discovering that you're an idiot programmer is humbling and liberating. You don't have to prove anything to anyone which makes you more relaxed, and getting more aware of your limitations is always a good thing because it allows you to optimize for them instead of fighting to overcome them.
 
+### 02022020 (or 02022020) 
+
 ## Why Lua has no library ecosystem
 
 Alright, it's time to bash on my favorite language a little bit. Specifically the problem of libraries because Lua doesn't have many good ones and because it's a common ritual to address the issue every year on the Lua mailing list and then do absolutely nothing about it, a tradition that goes back many years on that list. [Read more](https://github.com/capr/blog/issues/1)
