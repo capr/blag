@@ -56,3 +56,8 @@ This is a complex topic, but it boils down to how we view programming languages 
 ## C in recent years
 
 C was once great but it's getting worse. Can we do something about it? [Read more](https://github.com/capr/blog/issues/2)
+
+## The web (still) sucks
+
+That [comment](https://github.com/whatwg/xhr/issues/20#issuecomment-408677857) felt so good. Once again, condescending smart-ass W3C people trying to protect the poor users from us clueless devs.
+
