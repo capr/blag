@@ -5,6 +5,12 @@ If I were to count the man-hours we're losing every day in this activity
 doing useless crap that we would never have to do if we'd only be just 
 a little bit smarter on how we do it, the graveyard would be miles long.
 
+### Nov 4, 2020
+
+## People and things to follow
+
+Basically [my bookmarks](https://github.com/capr/blog/issues/7), just so I don't forget... Updated periodically.
+
 ### Feb 2, 2020 (02022020) 
 
 ## Why Lua has no library ecosystem
@@ -16,12 +22,6 @@ Alright, it's time to bash on my favorite language a little bit. Specifically th
 ## Design patterns from hell and object-oriented programming
 
 Let's see what some reputable people in the field have to say about it. [Read more](https://github.com/capr/blog/issues/3)
-
-## Inspirational talks and lectures
-
-[Bret Victor - Bret Victor - Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
-
-[The Mother of All Demos, presented by Douglas Engelbart (1968)](https://www.youtube.com/watch?v=yJDv-zdhzMY)
 
 ## The rule of 10
 
