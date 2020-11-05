@@ -1,15 +1,20 @@
 # Why does everybody have to be so stupid?
 
 That's right. I'm a hater. Not a week passes before I ask myself this question again.
-If I were to count the man-hours we're losing every day in this activity 
-doing useless crap that we would never have to do if we'd only be just 
-a little bit smarter on how we do it, the graveyard would be miles long.
+If I were to count the man-hours we're collectively wasting every day in this activity 
+doing useless crap, the graveyard would be miles long.
+
+This here is my little corner where I bitch about programming, life, the Universe and everything.
+I make an [issue](https://github.com/capr/sketchbook/issues) whenever I have to get something off my chest.
+There's also lists of things - those get updated periodically whenever I get a new idea 
+or want to expand on a topic, so the format is more like a wiki than a blog.
 
 ### Nov 4, 2020
 
-## People and things to follow
+## People and things to check out
 
-Basically [my bookmarks](https://github.com/capr/blog/issues/7), just so I don't forget... Updated periodically.
+Basically [my bookmarks (tech-related)](https://github.com/capr/blog/issues/7), just so I don't forget... Updated periodically. 
+I also keep [a non-tech-related list](https://github.com/capr/blog/issues/8). 
 
 ### Feb 2, 2020 (02022020) 
 
