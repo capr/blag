@@ -9,6 +9,10 @@ I make an [issue](https://github.com/capr/sketchbook/issues) whenever I have to 
 There's also lists of things - those get updated periodically whenever I get a new idea 
 or want to expand on a topic, so the format is more like a wiki than a blog.
 
+### Nov 6, 2020
+
+New issue: I rant about [dumb tech that everybody thinks is hot](https://github.com/capr/blog/issues/7). What could that be?
+
 ### Nov 4, 2020
 
 ## People and things to check out
