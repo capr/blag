@@ -1,3 +1,5 @@
+![sheep](https://raw.githubusercontent.com/capr/blog/master/sheep.jpg)
+
 # Why does everybody have to be so stupid?
 
 That's right. I'm a hater. Not a week passes before I ask myself this question again.
