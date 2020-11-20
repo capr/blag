@@ -15,6 +15,14 @@ or want to expand on a topic, so the format is more like a wiki than a blog.
 
 There are two kinds of people in the world. [Read more.](https://github.com/capr/blog/issues/14)
 
+### Nov 14, 2020
+
+A brief history of computers. [Read more.](https://github.com/capr/blog/issues/13)
+
+### Nov 13, 2020
+
+Cases of accidental complexity. [Read more.](https://github.com/capr/blog/issues/12)
+
 ### Nov 6, 2020
 
 Dumb tech that everybody thinks is hot. [Read more.](https://github.com/capr/blog/issues/9).
