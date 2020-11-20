@@ -27,6 +27,10 @@ Cases of accidental complexity. [Read more.](https://github.com/capr/blog/issues
 
 Dumb tech that everybody thinks is hot. [Read more.](https://github.com/capr/blog/issues/9).
 
+### Nov 5, 2020
+
+Stuff that every programmer should know (WIP). [Read more.](https://github.com/capr/blog/issues/10)
+
 ### Nov 4, 2020
 
 ## People and things to check out
