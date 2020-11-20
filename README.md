@@ -13,11 +13,11 @@ or want to expand on a topic, so the format is more like a wiki than a blog.
 
 ### Nov 20, 2020
 
-There are two kinds of people in the world. [Read mode](https://github.com/capr/blog/issues/14)
+There are two kinds of people in the world. [Read more.](https://github.com/capr/blog/issues/14)
 
 ### Nov 6, 2020
 
-New issue: I rant about [dumb tech that everybody thinks is hot](https://github.com/capr/blog/issues/9). What could that be?
+Dumb tech that everybody thinks is hot. [Read more.](https://github.com/capr/blog/issues/9).
 
 ### Nov 4, 2020
 
