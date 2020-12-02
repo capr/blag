@@ -52,7 +52,7 @@ I am an idiot. That has profoundly affected the way I code. [Read more](https://
 
 ## Text-based protocols
 
-If you ever get to read the RFCs on the HTTP protocol, that marvelous piece of engineering that even got its inventor the blessings of Her Majesty The Queen herself (and a medal, which I know just where he can to put it), you'll quickly realize what a miracle it is that our computers even start when we plug them in. I for one am amazed how Google can track my online behavior so well based on those cookie RFCs because if my calculations are correct, those things should just not work because for one, they're unparsable. So there you go. Something to be grateful for. You're welcome.
+If you ever get to read the RFCs on the HTTP protocol, that marvelous piece of engineering that even got its inventor the blessings of Her Majesty The Queen herself (and a medal, which I know just where he can put it), you'll quickly realize what a miracle it is that our computers even start when we plug them in. I for one am amazed how Google can track my online behavior so well based on those cookie RFCs because if my calculations are correct, those things should just not work because for one, they're unparsable. So there you go. Something to be grateful for. You're welcome.
 
 ### Dec 2, 2019
 
