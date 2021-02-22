@@ -1,6 +1,6 @@
 ![sheep](https://raw.githubusercontent.com/capr/blog/master/sheep.jpg)
 
-# Why does everybody have to be so stupid?
+# Why does everybody have to be so sstupid?
 
 That's right. I'm a hater. Not a week passes before I ask myself this question again.
 If I were to count the man-hours we're collectively wasting every day in this activity 
