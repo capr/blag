@@ -3,8 +3,6 @@
 # Why does everybody have to be so sstupid?
 
 That's right. I'm a hater. Not a week passes before I ask myself this question again.
-If I were to count the man-hours we're collectively wasting every day in this activity 
-doing useless crap, the graveyard would be miles long.
 
 This here is my little corner where I bitch about programming, life, the Universe and everything.
 I make an [issue](https://github.com/capr/sketchbook/issues) whenever I have to get something off my chest.
