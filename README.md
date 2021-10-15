@@ -1,4 +1,4 @@
-![sheep](https://64.media.tumblr.com/tumblr_luvcyscbGj1qg78udo1_500.gif)
+![sheep](vasectomy.gif)
 
 So this here is my little corner where I consume my trolling impulses so they don't spread 
 to other places like youtube comments or reddit (they still do, but this helps a lot).
