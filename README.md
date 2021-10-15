@@ -1,10 +1,6 @@
-![sheep](https://raw.githubusercontent.com/capr/blog/master/sheep.jpg)
+![sheep](https://64.media.tumblr.com/tumblr_luvcyscbGj1qg78udo1_500.gif)
 
-# Why does everybody have to be so ssstupid?
-
-Not a week passes before I ask myself this question again. That's right. I'm a hater.
-
-This here is my little corner where I consume my trolling impulses so they don't spread 
+So this here is my little corner where I consume my trolling impulses so they don't spread 
 to other places like youtube comments or reddit (they still do, but this helps a lot).
 
 [I make an issue](https://github.com/capr/sketchbook/issues) whenever I have to get something off my chest.
